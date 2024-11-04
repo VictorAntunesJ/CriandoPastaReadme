@@ -4,9 +4,7 @@
   
   | Conteúdo | Descrição |
   | :---------- | :---------------------------------- |
-  | **O que Faremos - Rotas, Alertas e Mais** | Definindo os objetivos da Seção 7: Rotas, Alertas e outros componentes |
-  | **Interface Model - Parte 01** | Adicionando a primeira parte da Interface Model para o projeto Angular |
-  | **Interface Model - Parte 02** | Finalizando a Interface Model com a segunda parte da implementação |
+  | [Interface Model](https://github.com/VictorAntunesJ/ProEventos/commit/1509b7776bdbe4e555bb4cc9186952dbf39d7fd9) | Adicionando Interface Model para o projeto Angular. |
   | **Evento Service** | Criando o Evento Service para gerenciar a lógica de eventos na aplicação |
   | **Dependency Injection** | Implementando Dependency Injection para otimizar o gerenciamento de serviços |
   | **Tipagem dos Métodos** | Adicionando tipagem aos métodos para melhorar a manutenção do código |
