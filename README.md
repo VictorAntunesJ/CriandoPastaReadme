@@ -6,7 +6,7 @@
   | :---------- | :---------------------------------- |
   | [Interface Model](https://github.com/VictorAntunesJ/ProEventos/commit/1509b7776bdbe4e555bb4cc9186952dbf39d7fd9) | Adicionando Interface Model para o projeto Angular. |
   | [Evento Service](https://github.com/VictorAntunesJ/ProEventos/commit/9859ea3e499b69d24ab0fac94a66e66279d94054) | Criando o Evento Service para gerenciar a lógica de eventos na aplicação |
-  | **Dependency Injection** | Implementando Dependency Injection para otimizar o gerenciamento de serviços |
+  | [Dependency Injection](https://github.com/VictorAntunesJ/ProEventos/commit/29f498b0487e597bcf5e7f6370dd32d9f1beee69) | Implementando Dependency Injection para otimizar o gerenciamento de serviços |
   | **Tipagem dos Métodos** | Adicionando tipagem aos métodos para melhorar a manutenção do código |
   | **TSLint - Subscribe Warning** | Configurando o TSLint para eliminar avisos de subscribe |
   | **Lotes, Imagens e Ícones** | Integrando funcionalidades para gerenciar lotes, imagens e ícones |
