@@ -10,7 +10,7 @@
   | [Tipagem dos Métodos](https://github.com/VictorAntunesJ/ProEventos/commit/6f5b452417d630e4701e0cc74ac9896fa7c8d9b6) | Adicionando tipagem aos métodos para melhorar a manutenção do código |
   | **TSLint - Subscribe Warning** | Configurando o TSLint para eliminar avisos de subscribe |
   | [Lotes, Imagens e Ícones](https://github.com/VictorAntunesJ/ProEventos/commit/a43e217cddb293c8390ab1c60ab7ba41ab411c75) | Integrando funcionalidades para gerenciar lotes, imagens e ícones |
-  | [Filtro de Data Pipe] (https://github.com/VictorAntunesJ/ProEventos/commit/8f981d748150d6b2f67be0a613688cb61c06b173) | Implementando Filtro de Data Pipe para formatação de datas |
+  | [Filtro de Data Pipe](https://github.com/VictorAntunesJ/ProEventos/commit/8f981d748150d6b2f67be0a613688cb61c06b173) | Implementando Filtro de Data Pipe para formatação de datas |
   | **Tooltip e Dropdown** | Adicionando Tooltips e Dropdowns para melhorar a UI |
   | **Modal** | Implementando a funcionalidade de Modal para interação do usuário |
   | **Adicionando NGX Toastr** | Integrando NGX Toastr para notificações na aplicação |
