@@ -9,7 +9,7 @@
   | [Dependency Injection](https://github.com/VictorAntunesJ/ProEventos/commit/29f498b0487e597bcf5e7f6370dd32d9f1beee69) | Implementando Dependency Injection para otimizar o gerenciamento de serviços |
   | [Tipagem dos Métodos](https://github.com/VictorAntunesJ/ProEventos/commit/6f5b452417d630e4701e0cc74ac9896fa7c8d9b6) | Adicionando tipagem aos métodos para melhorar a manutenção do código |
   | **TSLint - Subscribe Warning** | Configurando o TSLint para eliminar avisos de subscribe |
-  | **Lotes, Imagens e Ícones** | Integrando funcionalidades para gerenciar lotes, imagens e ícones |
+  | [Lotes, Imagens e Ícones](https://github.com/VictorAntunesJ/ProEventos/commit/a43e217cddb293c8390ab1c60ab7ba41ab411c75) | Integrando funcionalidades para gerenciar lotes, imagens e ícones |
   | **Filtro de Data Pipe** | Implementando Filtro de Data Pipe para formatação de datas |
   | **Tooltip e Dropdown** | Adicionando Tooltips e Dropdowns para melhorar a UI |
   | **Modal** | Implementando a funcionalidade de Modal para interação do usuário |
