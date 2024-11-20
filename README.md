@@ -12,7 +12,7 @@
   | [Lotes, Imagens e Ícones](https://github.com/VictorAntunesJ/ProEventos/commit/a43e217cddb293c8390ab1c60ab7ba41ab411c75) | Integrando funcionalidades para gerenciar lotes, imagens e ícones |
   | [Filtro de Data Pipe](https://github.com/VictorAntunesJ/ProEventos/commit/8f981d748150d6b2f67be0a613688cb61c06b173) | Implementando Filtro de Data Pipe para formatação de datas |
   | [Tooltip e Dropdown](https://github.com/VictorAntunesJ/ProEventos/commit/421e2c0ccbdaf3c85df6af4978593bf1d2b91217) | Adicionando Tooltips e Dropdowns para melhorar a UI |
-  | **Modal** | Implementando a funcionalidade de Modal para interação do usuário |
+  | [Modal] (https://github.com/VictorAntunesJ/ProEventos/commit/8ef8f865bd36e73ec221cec0058b22b3fc8f3719) | Implementando a funcionalidade de Modal para interação do usuário |
   | **Adicionando NGX Toastr** | Integrando NGX Toastr para notificações na aplicação |
   | **NGX Spinner - Carregando** | Implementando NGX Spinner para indicar carregamento de dados |
   | **Migrando para novas Versões** | Atualizando dependências e migrando para novas versões do Angular |
