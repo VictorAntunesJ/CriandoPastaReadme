@@ -13,7 +13,7 @@
   | [Filtro de Data Pipe](https://github.com/VictorAntunesJ/ProEventos/commit/8f981d748150d6b2f67be0a613688cb61c06b173) | Implementando Filtro de Data Pipe para formatação de datas |
   | [Tooltip e Dropdown](https://github.com/VictorAntunesJ/ProEventos/commit/421e2c0ccbdaf3c85df6af4978593bf1d2b91217) | Adicionando Tooltips e Dropdowns para melhorar a UI |
   | [Modal](https://github.com/VictorAntunesJ/ProEventos/commit/8ef8f865bd36e73ec221cec0058b22b3fc8f3719) | Implementando a funcionalidade de Modal para interação do usuário |
-  | **Adicionando NGX Toastr** | Integrando NGX Toastr para notificações na aplicação |
+  | [Adicionando NGX Toastr](https://github.com/VictorAntunesJ/ProEventos/commit/15deba3b64940c6e8bbc37d39ca591e958d7ac98) | Integrando NGX Toastr para notificações na aplicação |
   | **NGX Spinner - Carregando** | Implementando NGX Spinner para indicar carregamento de dados |
   | **Migrando para novas Versões** | Atualizando dependências e migrando para novas versões do Angular |
   | **Desafio Título** | Resolvido o desafio de implementar título dinâmico na aplicação |
