@@ -16,7 +16,7 @@
   | [Adicionando NGX Toastr](https://github.com/VictorAntunesJ/ProEventos/commit/15deba3b64940c6e8bbc37d39ca591e958d7ac98) | Integrando NGX Toastr para notificações na aplicação |
   | [NGX Spinner - Carregando](https://github.com/VictorAntunesJ/ProEventos/commit/9686133e44dfa35719f74625e777f7ecb1e30521) | Implementando NGX Spinner para indicar carregamento de dados |
   | **Migrando para novas Versões** | Atualizando dependências e migrando para novas versões do Angular |
-  | **Desafio Título** | Resolvido o desafio de implementar título dinâmico na aplicação |
+  | [Desafio Título](https://github.com/VictorAntunesJ/ProEventos/commit/023b44ed09392c5d7c50b71bfb9eb1e3236a8e96) | Resolvido o desafio de implementar título dinâmico na aplicação |
   | **Mais Components** | Adicionando novos componentes para expandir a funcionalidade do projeto |
   | **Resolvendo Desafio Título** | Ajustes e melhorias no título dinâmico da aplicação |
   | **@Input** | Implementando @Input para passar dados entre componentes |
