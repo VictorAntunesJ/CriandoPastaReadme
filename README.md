@@ -14,7 +14,7 @@
   | [Tooltip e Dropdown](https://github.com/VictorAntunesJ/ProEventos/commit/421e2c0ccbdaf3c85df6af4978593bf1d2b91217) | Adicionando Tooltips e Dropdowns para melhorar a UI |
   | [Modal](https://github.com/VictorAntunesJ/ProEventos/commit/8ef8f865bd36e73ec221cec0058b22b3fc8f3719) | Implementando a funcionalidade de Modal para interação do usuário |
   | [Adicionando NGX Toastr](https://github.com/VictorAntunesJ/ProEventos/commit/15deba3b64940c6e8bbc37d39ca591e958d7ac98) | Integrando NGX Toastr para notificações na aplicação |
-  | **NGX Spinner - Carregando** | Implementando NGX Spinner para indicar carregamento de dados |
+  | [NGX Spinner - Carregando](https://github.com/VictorAntunesJ/ProEventos/commit/9686133e44dfa35719f74625e777f7ecb1e30521) | Implementando NGX Spinner para indicar carregamento de dados |
   | **Migrando para novas Versões** | Atualizando dependências e migrando para novas versões do Angular |
   | **Desafio Título** | Resolvido o desafio de implementar título dinâmico na aplicação |
   | **Mais Components** | Adicionando novos componentes para expandir a funcionalidade do projeto |
