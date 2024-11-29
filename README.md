@@ -17,7 +17,7 @@
   | [NGX Spinner - Carregando](https://github.com/VictorAntunesJ/ProEventos/commit/9686133e44dfa35719f74625e777f7ecb1e30521) | Implementando NGX Spinner para indicar carregamento de dados |
   | **Migrando para novas Versões** | Atualizando dependências e migrando para novas versões do Angular |
   | [Desafio Título](https://github.com/VictorAntunesJ/ProEventos/commit/023b44ed09392c5d7c50b71bfb9eb1e3236a8e96) | Resolvido o desafio de implementar título dinâmico na aplicação |
-  | **Mais Components** | Adicionando novos componentes para expandir a funcionalidade do projeto |
+  | [Mais Components](https://github.com/VictorAntunesJ/ProEventos/commit/e67df1c44390510ae6aa8773f3120a3ab289ee95) | Adicionando novos componentes para expandir a funcionalidade do projeto |
   | **Resolvendo Desafio Título** | Ajustes e melhorias no título dinâmico da aplicação |
   | **@Input** | Implementando @Input para passar dados entre componentes |
   | **Angular Rotas - Parte 01** | Configurando a primeira parte das Rotas no Angular |
