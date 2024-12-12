@@ -19,7 +19,7 @@
   | [Desafio Título](https://github.com/VictorAntunesJ/ProEventos/commit/023b44ed09392c5d7c50b71bfb9eb1e3236a8e96) | Resolvido o desafio de implementar título dinâmico na aplicação |
   | [Mais Components](https://github.com/VictorAntunesJ/ProEventos/commit/e67df1c44390510ae6aa8773f3120a3ab289ee95) | Adicionando novos componentes para expandir a funcionalidade do projeto |
   | **Resolvendo Desafio Título** | Ajustes e melhorias no título dinâmico da aplicação |
-  | **@Input** | Implementando @Input para passar dados entre componentes |
+  | [@Input](https://github.com/VictorAntunesJ/ProEventos/commit/8578d5185061cd8d96aa598f47b834f7da528979) | Implementando @Input para passar dados entre componentes |
   | **Angular Rotas - Parte 01** | Configurando a primeira parte das Rotas no Angular |
   | **Angular Rotas - Parte 02** | Finalizando a configuração das Rotas no Angular |
   | **Enviando ao GIT** | Subindo as alterações para o GitHub após a conclusão da Seção 7 |
