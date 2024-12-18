@@ -25,3 +25,37 @@
   | **Enviando ao GIT** | Subindo as alterações para o GitHub após a conclusão da Seção 7 |
   | [Readme](https://github.com/VictorAntunesJ/ProEventos/blob/master/Readme.md) | Configuração de Interfaces para Modelos no Front-end 1 e 2 |
 </details>
+
+
+<details>
+  <summary>📂 Seção 8 - Angular - Layout e Reactive Forms</summary>
+
+  | Conteúdo | Descrição |
+  | :---------- | :---------------------------------- |
+  | **O que Faremos - Layout e Reactive Forms** | Planejamento da implementação do layout e Reactive Forms no projeto |
+  | **Referências Bootswatch** | Adicionando e configurando estilos do Bootswatch no projeto |
+  | **Component Título** | Criando o componente para gerenciar títulos dinâmicos |
+  | **Novo Layout Filtro e Evento** | Implementando novo layout para filtro e exibição de eventos |
+  | **Responsivas colunas da Tabela** | Ajustando a tabela para responsividade nas colunas |
+  | **Sub Components e Sub Rotas** | Criando subcomponentes e configurando sub-rotas no Angular |
+  | **RedirectTo e Rotas Detalhes** | Implementando redirecionamentos e rotas de detalhes |
+  | **User, Login e Registration** | Desenvolvendo funcionalidades de usuário, login e registro |
+  | **Rotas do User** | Configurando rotas específicas para o usuário |
+  | **Form Registration** | Criando o formulário de registro de usuários |
+  | **Show Menu e Mini Logo** | Ajustando exibição de menus e mini logotipos |
+  | **Form Perfil e Eventos** | Criando formulários para perfil de usuário e eventos |
+  | **Commit - Layout Responsivo + Forms** | Subindo alterações de layout responsivo e formulários para o GitHub |
+  | **Strict Template e TSConfig** | Configurando templates restritos e ajustando o TSConfig |
+  | **Reactive Form - Parte 1** | Introdução aos Reactive Forms no Angular |
+  | **Reactive Form - Parte 2** | Desenvolvimento avançado com Reactive Forms |
+  | **Reactive Form - Parte 3** | Finalizando a implementação dos Reactive Forms |
+  | **Form Builder e Limpando Código** | Utilizando FormBuilder para simplificar o código |
+  | **Desafio Form Completo** | Resolvido o desafio de implementar um formulário completo |
+  | **Form Registration - Parte 01** | Primeira parte do desenvolvimento do formulário de registro |
+  | **Form Registration - Parte 02** | Segunda parte do desenvolvimento do formulário de registro |
+  | **Form Registration - Parte 03** | Finalizando o formulário de registro |
+  | **Confirmar Senha - Must Match** | Implementando validação de confirmação de senha |
+  | **Form Perfil** | Desenvolvendo o formulário para editar o perfil do usuário |
+  | **Enviando ao GIT** | Subindo as alterações para o GitHub após a conclusão da Seção 8 |
+</details>
+
