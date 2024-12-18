@@ -22,7 +22,6 @@
   | [@Input](https://github.com/VictorAntunesJ/ProEventos/commit/8578d5185061cd8d96aa598f47b834f7da528979) | Implementando @Input para passar dados entre componentes |
   | [Angular Rotas - Parte 01](https://github.com/VictorAntunesJ/ProEventos/commit/189d2f6c6b668325d366117cae0a1606f255b91b) | Configurando a primeira parte das Rotas no Angular |
   | [Angular Rotas - Parte 02](https://github.com/VictorAntunesJ/ProEventos/commit/c49893a8c3ada00ccf1027618fa5c51fc222b5cf) | Finalizando a configuração das Rotas no Angular |
-  | **Enviando ao GIT** | Subindo as alterações para o GitHub após a conclusão da Seção 7 |
   | [Readme](https://github.com/VictorAntunesJ/ProEventos/blob/master/Readme.md) | Configuração de Interfaces para Modelos no Front-end 1 e 2 |
 </details>
 
@@ -55,6 +54,5 @@
   | **Form Registration - Parte 03** | Finalizando o formulário de registro |
   | **Confirmar Senha - Must Match** | Implementando validação de confirmação de senha |
   | **Form Perfil** | Desenvolvendo o formulário para editar o perfil do usuário |
-  | **Enviando ao GIT** | Subindo as alterações para o GitHub após a conclusão da Seção 8 |
 </details>
 
