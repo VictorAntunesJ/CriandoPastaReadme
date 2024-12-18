@@ -32,7 +32,6 @@
 
   | Conteúdo | Descrição |
   | :---------- | :---------------------------------- |
-  | **O que Faremos - Layout e Reactive Forms** | Planejamento da implementação do layout e Reactive Forms no projeto |
   | **Referências Bootswatch** | Adicionando e configurando estilos do Bootswatch no projeto |
   | **Component Título** | Criando o componente para gerenciar títulos dinâmicos |
   | **Novo Layout Filtro e Evento** | Implementando novo layout para filtro e exibição de eventos |
